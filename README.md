@@ -71,3 +71,4 @@ GENERATORS:
 
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+* Rapid API - https://rapidapi.com/
