@@ -45,6 +45,7 @@ GENERATORS:
 * Client Side Code - http://liveweave.com
 * Server Side Code - https://repl.it
 * Client & Server Side Coding - https://codesandbox.io/
+* Nodejs Playground - https://www.katacoda.com/courses/nodejs/playground
 
 ## SNIPPET TOOLS:
 * Snippet Manager - https://gist.github.com
@@ -72,3 +73,7 @@ GENERATORS:
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
 * Rapid API - https://rapidapi.com/
+* More Source - https://public-apis.xyz/
+
+## FREE HOSTING SERVICES:
+* Hosting Services - https://josiasdev.best/free-hosting-services-for-web-developers
