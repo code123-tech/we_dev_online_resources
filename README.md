@@ -44,6 +44,7 @@ GENERATORS:
 * Client Side Code - https://jsfiddle.net
 * Client Side Code - http://liveweave.com
 * Server Side Code - https://repl.it
+* Client & Server Side Coding - https://codesandbox.io/
 
 ## SNIPPET TOOLS:
 * Snippet Manager - https://gist.github.com
