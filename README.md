@@ -76,4 +76,16 @@ GENERATORS:
 * More Source - https://public-apis.xyz/
 
 ## FREE HOSTING SERVICES:
-* Hosting Services - https://josiasdev.best/free-hosting-services-for-web-developers
+* Vercel - https://vercel.com/dashboard
+* Netlify - https://www.netlify.com/
+* Heroku - https://heroku.com/
+* StormKit- https://stormkit.io/
+* Hostman - https://hostman.com/
+* Glitch - https://glitch.com/
+* Repl.it - https://repl.it/
+* Surge - https://surge.sh/
+* Firebase - https://firebase.google.com/
+* Github - https://pages.github.com/
+* Begin - https://begin.com/
+* Fly - https://fly.io/
+* Fleek - https://fleek.co/
